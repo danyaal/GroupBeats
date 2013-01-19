@@ -1,0 +1,140 @@
+/* Queue CSS */
+
+body {
+    background-image: url('../img/blizzard.png');
+	margin-top:-40px;
+}
+
+.vote{
+    float: right;
+}
+
+.search-icon{
+	background: url('../img/glyphicons_027_search.png') no-repeat;
+	background-position:10px;
+	background-size: 30px 30px;
+}
+
+.btn-vote{
+    float: right;
+}
+
+.ui-autocomplete {
+    text-align: center;
+    font-family: 'helvetica', 'arial', 'sans-serif';
+    color: black;
+    border-bottom: 1px dotted black;
+}
+
+.ui-autocomplete a {
+    color: black;
+}
+
+.ui-helper-hidden-accessible{
+	display:none;
+}
+
+.search-bar{
+    margin-top: 5%;
+}
+
+.search-bar form input {
+    font-family: Helvetica, arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    height: 75px;
+    font-size: 48px;
+    border: none;
+    border-bottom: solid black;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+.search-bar form input:focus {
+        border: none;
+    box-shadow: none;
+    border: none;
+    border-bottom: solid black;
+}
+
+#player {
+    font-family: Helvetica, arial, sans-serif;
+    font-weight: bold;
+    text-decoration: italic;
+    text-align: center;
+}
+
+#player p {
+    font-size: 36px;
+    font-style: italic;
+    text-align: center;
+}
+
+#nowplaying {
+    color: #333;
+    letter-spacing: .1em;
+    font-family: 'helvetica', 'arial', 'sans-serif';
+    font-weight: bold;
+    font-size: 12pt;
+    padding: 5px;
+}
+
+#queue{
+	margin-top:10px;
+    opacity: 0.75;
+    width: 30%;
+    height: 50%;
+    font-family: 'helvetica', 'arial', 'sans-serif';
+    font-weight: bold;
+    letter-spacing: .1em;
+    font-size: 11pt;
+}
+#queue li{
+	list-style:none;
+	margin: 5px;
+    list-style-type: none;
+}
+.songid{
+	
+}
+.ui-autocomplete{
+	list-style:none;
+	width:100px;
+	background:#fff;
+	border:1px solid;
+}
+
+.UL_list{
+	background:none;
+	border:none;
+	display:inline-block;
+	height:16%;
+	overflow:auto;
+}
+.UL_title{
+	margin:0;
+}
+.UL_user{
+	margin:0;
+	padding:0;
+	border:none;
+	background:none;
+	float:left;
+	margin-right:10px;
+}
+.UL_left_column{
+	width:130px;
+}
+.UL_icon{
+	float:left;
+}
+.UL_username{
+	float:right;
+}
+.UL_right_column{
+	display:none;
+}
+	
+	
+	
