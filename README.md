@@ -1,6 +1,6 @@
-This is a web application that Pratik Kabra(github.com/pkabra), Rahul Raina(github.com/rraina), Kyle Summers, and I worked on at a hackathon!
+This is a web application that Pratik Kabra(github.com/pkabra), Rahul Raina(github.com/rraina), Kyle Summers, and I(github.com/thedanyaal) worked on at a hackathon!
 
-It is basically an online jukebox for parties, where anyone can add their favorite songs to a main playlist. Then everyone can vote on songs and based on the votes, certain songs are picked next on the list.
+It is an online jukebox for parties, where anyone can add their favorite songs to a main playlist. Then everyone can vote on songs and based on the votes, certain songs are picked next on the list.
 
 This hack won us first place at the hackathon!
 
